@@ -15,7 +15,5 @@ import (
 func main() {
 	one.Do(twov4.Get())
 	onev4.Do(two.Get())
-	// one.Do(twov3.Get())
-	ls := three.List()
-	log.Println(ls)
+	log.Println(three.List())
 }
