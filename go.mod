@@ -1,6 +1,3 @@
 module github.com/jbendotnet/pointless-cmd
 
-require (
-	github.com/jbendotnet/pointless/one v0.0.1
-	github.com/jbendotnet/pointless/two v0.0.1
-)
+require github.com/jbendotnet/pointless/v3 v3.0.0
